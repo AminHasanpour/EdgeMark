@@ -4,7 +4,7 @@ An automation and benchmarking system for embedded AI tools.
 
 ## Documentation
 
-The documentation for this project can be found [here](https://black3rror.github.io/EdgeMark/).
+The documentation for this project can be found [here](https://AminHasanpour.github.io/EdgeMark/).
 
 ## Project structure
 
